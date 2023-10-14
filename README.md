@@ -18,5 +18,6 @@ Haz click en el enlace que te llevará al repositorio de ejercicios de tu promoc
 | Promoción | Repositorio | Status
 |--|--|--|
 | PER 5784 | [Repositorio de ejercicios PER 5784](https://github.com/UnirCs/BBDD-PER5784-2223) | <div align="center"> 🔴 </div>
+| PER 8263 | [Repositorio de ejercicios PER 8263](https://github.com/UnirCs/BBDD-PER8263-2324) | <div align="center"> 🟢 </div>
 
 </div>
