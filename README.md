@@ -21,3 +21,10 @@ Haz click en el enlace que te llevará al repositorio de ejercicios de tu promoc
 | PER 8263 | [Repositorio de ejercicios PER 8263 y 9787](https://github.com/UnirCs/BBDD-PER8263-2324) | <div align="center"> 🟢 </div>
 
 </div>
+
+# 🛟 Código de apoyo
+Los repositorios que se listan a continuación contienen el código de apoyo de la asignatura. A menudo, este código será usado en clase (puede que con ligeras variaciones durante la misma) para ir explicando cada uno de los temas. Puedes tomarlos como base y ejemplo para realizar las actividades prácticas de la asignatura.
+
+| Orientación | Repositorio | Descripción
+|--|--|--|
+| Relacional | [JDBC con MySQL y Oracle DB](https://github.com/UnirCs/bbdda-jdbc) |  Aplicación Java con Maven que nos permite conectar a bases de datos relacionales MySQL y Oracle Database usando JDBC, una de las alternativas de más bajo nivel que podemos encontrar.
