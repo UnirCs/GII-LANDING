@@ -29,3 +29,4 @@ Los repositorios que se listan a continuación contienen el código de apoyo de 
 |--|--|--|
 | Relacional | [JDBC con MySQL y Oracle DB](https://github.com/UnirCs/bbdda-jdbc) |  Aplicación Java con Maven que nos permite conectar a bases de datos relacionales MySQL y Oracle Database usando JDBC, una de las alternativas de más bajo nivel que podemos encontrar.
 | Relacional | [JPA + Hibernate](https://github.com/UnirCs/bbdda-hibernate) |  Aplicación Java con Maven que nos permite conectar a bases de datos relacionales MySQL y usar Hibernate, la implementación más popular de JPA.
+| Relacional | [JPA + Spring Data](https://github.com/UnirCs/bbdda-spring-data) |  Aplicación Java con Maven que nos permite conectar a bases de datos relacionales MySQL y usar Spring Data.
