@@ -15,10 +15,11 @@ Haz click en el enlace que te llevará al repositorio de ejercicios de tu promoc
 
 <div align="center">
 
-| Promoción | Repositorio | Status
+| 🎓 Promoción | 🎁 Repositorio | 🚥 Status
 |--|--|--|
+| GLOBAL   | [Repositorio con los códigos de clase y ejercicios](https://github.com/UnirCs/BBDDA-GLOBAL) | <div align="center"> 🟢 </div>
 | PER 5784 | [Repositorio de ejercicios PER 5784](https://github.com/UnirCs/BBDD-PER5784-2223) | <div align="center"> 🔴 </div>
-| PER 8263 | [Repositorio de ejercicios PER 8263 y 9787](https://github.com/UnirCs/BBDD-PER8263-2324) | <div align="center"> 🟢 </div>
+| PER 8263 | [Repositorio de ejercicios PER 8263 y 9787](https://github.com/UnirCs/BBDD-PER8263-2324) | <div align="center"> 🔴 </div>
 
 </div>
 
